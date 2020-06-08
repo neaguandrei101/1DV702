@@ -1,0 +1,3 @@
+ubuntu@ubuntu:~$ sudo .local/eclipse/eclipse
+ubuntu@ubuntu:~/1dv702$ sudo mn --custom SDNTopo.py --topo sdntopo --controller remote
+ubuntu@ubuntu:/usr/local/pox$ ./pox.py  samples.1dv702.controlapp

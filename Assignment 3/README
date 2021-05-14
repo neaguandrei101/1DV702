@@ -1,0 +1,4 @@
+SDN programming using POX for the SDN controller and Click for the routers.
+The logic is written in python. The routing is managed by the Click scripts.
+Complete routing logic over different networks with ARP handling done by the custom Switches.
+Static routes.
